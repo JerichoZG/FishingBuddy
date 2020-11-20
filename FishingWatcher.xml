@@ -3,7 +3,7 @@
     <Script file="FishingWatcher.lua"/>
     <FontString name="FishingWatchFontTemplate" inherits="GameFontNormal" virtual="true" justifyH="LEFT">
 	<Size>
-	    <AbsDimension x="0" y="13"/>
+	    <AbsDimension x="0" y="17"/>
 	</Size>
     </FontString>
 
@@ -149,7 +149,7 @@
 			<Layer level="BACKGROUND">
 				<FontString name="FishingWatchLine1" inherits="FishingWatchFontTemplate" hidden="true">
 					<Size>
-						<AbsDimension x="0" y="13"/>
+						<AbsDimension x="0" y="17"/>
 					</Size>
 					<Anchors>
 						<Anchor point="TOPLEFT"/>

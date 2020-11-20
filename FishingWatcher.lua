@@ -271,7 +271,7 @@ FishingBuddy.WatchUpdate = function()
       index = index + 1;
    end
 
-   FishingWatchFrame:SetHeight(index * 13);
+   FishingWatchFrame:SetHeight(index * 17);
    FishingWatchFrame:SetWidth(fishingWatchMaxWidth + 10);
    FishingWatchFrame:Show();
 end
